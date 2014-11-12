@@ -1,4 +1,4 @@
-The Purpose Of Life
+# The Purpose Of Life
 
 The purpose of life is to perpetuate itself into eternity - to not become extinct.
 
@@ -6,7 +6,8 @@ Why? Because a life form that can achieve true immortality may have an actual, o
 encountering God while it is still alive. Our Universe can only be called successful if it produces
 such a life form.
 
-Big Chill
+## Big Chill
+
 How? The life form does not necessarily have to be continuously aware. In a Big Chill scenario, as
 time goes on, the amount of energy available for maintaining awareness will diminish. Thus, the
 life form should be made so it can drift through space in suspended animation until a stray photon
@@ -21,7 +22,8 @@ passed, because it will be absolutely still from moment to moment. There will be
 the time, because that, too, would require energy. It will be absolutely lonely with only its
 thoughts and memories, yet eternally alive.
 
-Death
+## Death
+
 How does this relate to death? Well, when you get knocked out from, say, getting hit in the face
 with a football, you're just standing there and then, all of a sudden, you're sitting down,
 surrounded by friends asking you if you're OK. Some length of time will have elapsed, usually a
@@ -97,12 +99,14 @@ object to survive undamaged into eternity.
 
 Assuming such a trajectory is possible, the next step would be to build such an object.
 
-Relationship to God
+## Relationship to God
+
 Note that none of this precludes the existence of God, nor does it preclude the possibility that
 God interacts with the Universe. It is simply a way of ensuring that the Universe always contains
 at least one sentient life form.
 
-My inspiration
+## My inspiration
+
 I drew my inspiration from Arthur C. Clarke's and Gentry Lee's Rama series. My first thought was
 that it's not so much that I hope something resembling the events described in the books happens
 in my lifetime, that it should be our goal to participate in such things as illustrated in the
@@ -133,7 +137,8 @@ completely opaque with artificial lighting on the inside, just like Rama, becaus
 assume the presence of a star in our designs. We should store energy from a star or from whatever
 other source, but we should then produce our own light from it.
 
-A hunch
+## A hunch
+
 We have within us an innate sense of when we are contributing towards the goal of "sending into
 eternity" such a machine, and when we are not.
 
@@ -152,7 +157,7 @@ into previously unfathomed consequences of our actions. These unforeseen consequ
 along whose edge we are constantly walking, and whenever we turn a blind eye, we pass up an
 opportunity for gaining the insight that will allow us to stave off our extinction a while longer.
 
-Tasks:
+## Tasks:
 - Prove that it is possible to construct such a machine
   - Can a machine survive near absolute zero while maintaining its structure/function?
 
