@@ -1,0 +1,64 @@
+Original URL: https://medium.com/starts-with-a-bang/learning-to-chill-cd8f4fe607d4
+Author: Paul Halpern
+
+Reproduced here for backup purposes, in case the original link goes 404.
+
+Learning to Chill
+
+What would intelligent life look like in the frigid, final era of the Universe?
+A frozen world populated with robots, courtesy of http://www.123rf.com/.
+
+In 1862, Lord Kelvin (William Thomson) offered a sobering forecast for the cosmos. Applying the second law of thermodynamics to a finite universe, he concluded that eventually, in a state later dubbed \u201cHeat Death,\u201d there will be no usable energy left. Ultimately, space will be a lifeless graveyard, strewn with the relics of once shining objects. As he wrote:
+Lord Kelvin, Courtesy of Wikimedia Commons
+
+    The second great law of thermodynamics involves a certain principle of irreversible action in Nature. It is thus shown that, although mechanical energy is indestructible, there is a universal tendency to its dissipation, which produces gradual augmentation and diffusion of heat, cessation of motion, and exhaustion of potential energy through the material universe. The result would inevitably be a state of universal rest and death, if the universe were finite and left to obey existing laws.
+
+Kelvin based his somber conclusion on the influential work of German physicist Rudolf Clausius, who proposed the second law of thermodynamics in 1850.
+Rudolf Clausius, Courtesy of Wikimedia Commons
+
+Clausius had conducted a detailed study of heat and energy, and how these quantities transform in heat engines and other work-producing processes. He showed how the limits of engine efficiency depended only on the temperatures of the hot and cold reservoirs driving the process, not on the material used.
+
+For example, take an engine that involves immersing a gas-propelled mechanism in a hot water reservoir, driving a piston as the gas expands rapidly. That\u2019s half an engine: now imagine insulating the gas for further expansion while the temperature remains constant, and then exposing the gas to a cold reservoir to compress it and begin the cycle again. In the ideal case, such a process is called a Carnot cycle. The greater the temperature difference between the hot and cold water, the more work performed, and the higher the efficiency. If the temperature difference was nil, on the other hand, such as if both basins were filled with tepid water, no work could be done at all.
+Your browser does not support the video tag.
+Carnot Cycle, courtesy of NASA
+
+However, isolated systems tend to equalize their temperatures over time, as heat flows from hot to cold. Clausius noted that many closed processes naturally proceed from higher to lower temperature differences, but never the converse. For instance, an ice cube dropped into a cup of hot tea would result in a cooler drink, never a hotter drink and a colder ice cube. Even though energy conservation alone would allow that eventuality, the second law of thermodynamics would forbid it.
+Courtesy of Wikimedia Commone
+
+Clausius later cast the Second Law in terms of a quantity called \u201centropy,\u201d which, as Ludwig Boltzmann showed, is a measure of the lack of uniqueness of a system, sometimes colloquially known as a measure of disorder. A two part thermodynamic system, half-hot and half-cold, is harder to assemble than a single state of uniform temperature. In the two-part system, faster-moving and slower moving molecules would need to be segregated, unlike a uniform temperature system. Therefore the separated, part-cold and part-hot system would have lower entropy than the latter, uniform case.
+Courtesy of backreaction.blogspot.com
+
+As the Second Law mandates, in a closed system entropy tends to either remain the same or grow. It never spontaneously decreases. But that it is strictly true only for systems that are isolated and closed. For an open system, in contrast, external sources might reduce the overall entropy. For instance, solar panels might yield the electricity needed to run a freezer that makes ice cubes and a stove that boils hot water for tea, creating a more pronounced temperature difference, not a smaller one.
+
+How should we treat, then, the cosmos as a whole? The question of whether the entropy of the entire universe might ever decrease is deeply perplexing.
+Courtesy of heikegani.com
+
+Isaac Asimov famously considered the issue in his science fiction classic \u201cThe Last Question.\u201d He imagined future civilizations challenged by the diminishing amount of usable energy in the Universe and trying to utilize increasingly intelligent computers to reverse time\u2019s arrow of increasing entropy. They press these powerful electronic brains to answer questions such as:
+
+    Will mankind one day without the net expenditure of energy be able to restore the sun to its full youthfulness even after it had died of old age? \u2026 How can the net amount of entropy of the universe be massively decreased? \u2026 Can entropy ever be reversed?
+
+As entropy grows and grows, their situation becomes increasingly urgent until an advanced form of intelligence arrives at a solution to the dilemma.
+
+Our civilization is dependent on the Sun and, to a lesser extent, power generated by terrestrial materials, as sources of usable energy. Fossil fuels derive from decayed plant matter that once drew energy from the Sun\u2019s rays. When eventually the Sun dies, we would be hard pressed to fulfill our energy needs, and would likely need to relocate (if possible) near another star. However, eventually all stars will meet their ends, with none being suitable as a truly permanent home.
+Courtesy of Wikimedia Commons
+
+Some stars, such as red dwarfs, burn much more slowly than others, and might buy us more time before we are forced to leave their vicinity. The only issue would be that as red dwarfs have much cooler surfaces temperatures than the Sun, we\u2019d need to live on a planet so close to its parent star that it would be tidally locked (always facing the same direction). Such a circumstance would lead to drastically different temperatures on the near and far-side of the planet.
+
+Searching for new habitable zones might prove to be an increasingly formidable challenge. As Ethan has discussed in a previous post, \u201cThe Last Light in the Universe,\u201d in the distant future, our sky will be sparser due to several key factors, including cosmic acceleration driven by dark energy, and a diminishing supply of stellar fuel in our vicinity.
+
+Eventually all reachable stars in our region will either be burned-out stellar relics, neutron stars (ultradense stellar cores), or black holes (the ultimate state of collapse for massive stars, resulting in gravitational wells from which nothing can escape directly, not even light). Black holes slowly release their energy through the process of Hawking radiation, so they are hardly immortal. Meanwhile space will continue to expand and cool, serving as a kind of vast deep freezer full of the frozen corpses of once shining stars.
+
+Might intelligent life be able to survive such a frigid era? Acclaimed physicist Freeman Dyson (prior to the discovery of dark energy, it should be noted) has pondered how such survival might be possible, and what what be the motivation of such a late-stage existence. As he wrote:
+
+    It is impossible to calculate in detail the long-range future of the universe without including the effects of life and intelligence. It is impossible to calculate the capabilities of life and intelligence without touching, at least peripherally, philosophical questions. If we are to examine how intelligent life may be able to guide the physical development of the universe for its own purposes, we cannot altogether avoid considering what the values and purposes of intelligent life may be. But as soon as we mention the words value and purpose, we run into one of the most firmly entrenched taboos of twentieth-century science.
+
+As Dyson imagined, a sense of purpose would motivate cognizant life to try to maintain itself as long as humanly\u200a\u2014\u200aand then transhumanly\u200a\u2014\u200apossible. Ultimately, humans and other possible intelligent beings in the universe might elect to transfer their conscious awareness to artificial storage and processing units\u200a\u2014\u200apresuming that artificial intelligence (AI) is possible.
+Courtesy of http://science.dodlive.mil
+
+As the universe continued to cool, our AI descendants would need to take action. Unlike Asimov, Dyson does not suggest a mechanism for reversing the growth of entropy. Rather, he imagines a gradual slowing down of thinking processes. Only necessary thoughts would transpire and these would happen at an increasingly snail-like pace. Between thoughts, the AI devices would hibernate to conserve vital, usable energy. By spacing out thoughts more and more, Dyson argues, intelligent existence could persist almost indefinitely, although the number of total thoughts would still be finite.
+Freeman Dyson, Courtesy of Wikimedia Commons
+
+Drawing upon Dyson\u2019s notion of ultimate survival in an era deep freeze, University of Michigan researchers Fred Adams and Greg Laughlin have mapped out distinct stages of the cosmic end times. Calling our own age the \u201cStelliferous (star-filled) Era,\u201d they suggest that it will be followed by the\u201cDegenerate Era,\u201d in which neutron stars and other collapsed objects dominate. That will be succeeded by the \u201cBlack Hole Era\u201d in which such extreme, gravitationally collapsed dominate and release a slow trickle of Hawking radiation. Perhaps AI beings will learn to subsist on that meager source of power, at temperatures only one ten-millionth of a degree Kelvin, by drawing out thought processes such that they transpire billions of times slower than ours. Finally, as Adams and Laughlin relate, the universe would end its life in a \u201cDark Era\u201d in which nothing would be left but an increasingly frigid sea of radiation and point particles such as electrons. By that time, the cosmos will be more than 10^100 years old!
+Courtesy of Wikimedia Commons
+
+So if you are worried about paying back tuition loans or mortgages, take heart. You may try to negotiate pacing them out over the lifespan of the universe, and let your slow-thinking AI descendants try to figure out how to make the final payments. Just make sure that the interest rate doesn\u2019t keep pace with cosmic growth.
